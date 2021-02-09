@@ -6,7 +6,9 @@ In the List interface, it allows duplicate elements in the List and containers t
 - ArrayList:
   - Methods includes: add(), remove(), set(), contains(), sublist(), ....
   - Examples can be found in the package 'list' => ArrayListExample
-- LinkedList
+- LinkedList:
+  - Methods:
+  - Examples can be found in the package 'list' => LinkedListExample
 - etc
 
 
